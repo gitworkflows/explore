@@ -18,7 +18,7 @@ items:
  - praveenjuge/myna/
  - TailGrids/tailwind-ui-components
  - htmlstreamofficial/preline
- - shadcn/ui
+ - shadcn-ui/ui
  - primefaces/primereact
  - nextui-org/nextui
  - chakra-ui/chakra-ui
@@ -27,6 +27,7 @@ items:
  - palantir/blueprint
  - rsuite/rsuite
  - Semantic-Org/Semantic-UI-React
+ - creativetimofficial/material-tailwind
 
 ---
 
